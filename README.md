@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sasidhar 
+- 👀 I’m interested in Data Engineering and Machine Learning
+- 🌱 I’m currently learning Data engineering
+- 💞️ I’m looking to collaborate on Data projects
+- 📫 sasidharpurum@gmail.com 
